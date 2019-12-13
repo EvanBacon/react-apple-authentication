@@ -1,0 +1,37 @@
+{
+  "name": "react-apple-authentication",
+  "version": "1.0.1",
+  "description": "This library provides Apple authentication for iOS 13+. It does not yet support lower iOS versions, Android, or web.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://docs.expo.io/versions/latest/sdk/apple-authentication/",
+  "author": "Expo <support@expo.io> (https://expo.io)",
+  "keywords": [
+    "react-apple-authentication",
+    "expo-apple-authentication",
+    "apple-authentication",
+    "react-native-apple-authentication",
+    "native",
+    "react",
+    "react-native",
+    "react-native-web",
+    "expo",
+    "expo-web",
+    "official"
+  ],
+  "license": "MIT",
+  "nativePackage": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/expo/expo.git",
+    "directory": "packages/expo-apple-authentication"
+  },
+  "dependencies": {
+    "expo-apple-authentication": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/expo/expo/issues"
+  }
+}
